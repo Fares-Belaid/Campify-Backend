@@ -1,0 +1,17 @@
+C:\Users\belai\compify\src\main\java\com\app\compify\security\service\JwtUserDetails.java
+C:\Users\belai\compify\src\main\java\com\app\compify\dao\entity\User.java
+C:\Users\belai\compify\src\main\java\com\app\compify\payload\response\AuthenticationResponse.java
+C:\Users\belai\compify\src\main\java\com\app\compify\security\jwt\AuthEntryPointJwt.java
+C:\Users\belai\compify\src\main\java\com\app\compify\CompifyApplication.java
+C:\Users\belai\compify\src\main\java\com\app\compify\security\WebSecurityConfig.java
+C:\Users\belai\compify\src\main\java\com\app\compify\payload\request\SignupRequest.java
+C:\Users\belai\compify\src\main\java\com\app\compify\payload\request\LoginRequest.java
+C:\Users\belai\compify\src\main\java\com\app\compify\dao\repository\RoleRepository.java
+C:\Users\belai\compify\src\main\java\com\app\compify\security\jwt\JwtUtils.java
+C:\Users\belai\compify\src\main\java\com\app\compify\controller\AuthController.java
+C:\Users\belai\compify\src\main\java\com\app\compify\dao\entity\Role.java
+C:\Users\belai\compify\src\main\java\com\app\compify\service\impl\UserServiceImpl.java
+C:\Users\belai\compify\src\main\java\com\app\compify\security\jwt\AuthTokenFilter.java
+C:\Users\belai\compify\src\main\java\com\app\compify\security\service\UserDetailsServiceImpl.java
+C:\Users\belai\compify\src\main\java\com\app\compify\service\UserService.java
+C:\Users\belai\compify\src\main\java\com\app\compify\dao\repository\UserRepository.java
